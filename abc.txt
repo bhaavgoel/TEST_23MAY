@@ -1,5 +1,5 @@
 hello AMIL Amity
-<<<<<<< HEAD
+
 
 
 b3 branch edited
@@ -11,4 +11,4 @@ branch b3 edited.
 
 
 b4 branch edited
-
+#EDITED BY UTKARSH
